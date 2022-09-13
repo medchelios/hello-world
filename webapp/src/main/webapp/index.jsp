@@ -1,6 +1,6 @@
 <form action="action_page.php" style="text-lign:center">
   <div class="container">
-    <h1>Register</h1>
+    <h1>CREATION COMPTE</h1>
     <p>Please fill in this form to create an account.</p>
     <hr>
 
@@ -28,6 +28,7 @@
 /* Add padding to containers */
 .container {
   padding: 16px;
+  text-align: center;
 }
 
 /* Full-width input fields */
