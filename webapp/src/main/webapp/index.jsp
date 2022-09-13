@@ -1,6 +1,6 @@
 <form action="action_page.php" style="text-lign:center">
   <div class="container">
-    <h1>New Register accompte</h1>
+    <h1>New register for ansible</h1>
     <p>Please fill in this form to create an account.</p>
     <hr>
 
