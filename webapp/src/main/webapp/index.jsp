@@ -1,6 +1,6 @@
 <form action="action_page.php" style="text-lign:center">
   <div class="container">
-    <h1>Continuous integration Jenkins push image on docker hub</h1>
+    <h1>Continuous integration Jenkins push image on docker hub and CI to deploy on docker image tomcat</h1>
     <p>Please fill in this form to create an account.</p>
     <hr>
 
